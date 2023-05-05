@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with my homework. My dog ate it!
 - 💬 Ask me about distributed systems and cloud.
 - 📫 How to reach me: see below.
-
 ---
 ### 🤝🏻 Connect, Follow, Subscribe
 
@@ -14,7 +13,6 @@
 [![Dockerhub](https://img.shields.io/badge/Dockerhub-ADD8E6?style=for-the-badge&logo=docker&logoColor=black)](https://hub.docker.com/u/guillemaru)
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/multiguillermo/)
 ---
-
 ### 💻 Languages, Frameworks, Tools
 <p float="left">
 <img style="padding:5px;" align="center" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
