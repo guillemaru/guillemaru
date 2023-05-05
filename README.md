@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with my homework. My dog ate it!
 - 💬 Ask me about distributed systems and cloud.
 - 📫 How to reach me: see below.
----
+--
 ### 🤝🏻 Connect, Follow, Subscribe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-marug%C3%A1n-593a61105/)
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guille_maru)
