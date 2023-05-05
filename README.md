@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-marug%C3%A1n-593a61105/)
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guille_maru)
 [![Dockerhub](https://img.shields.io/badge/Dockerhub-ADD8E6?style=for-the-badge&logo=docker&logoColor=black)](https://hub.docker.com/u/guillemaru)
-[![Leetcode](https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.youtube.com/c/ABSatyaprakash)
+[![Leetcode](https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/multiguillermo/)
 
 ---
 
