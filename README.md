@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB)]()
 - 🔭 I’m currently working at [MathWorks](https://www.mathworks.com) in their Online Products area.
 - 🌱 I’m currently learning Golang and Docker.
 - 👯 I’m looking to collaborate on software projects that can scale and have a high impact.
