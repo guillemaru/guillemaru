@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 <!--
 **guillemaru/guillemaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
