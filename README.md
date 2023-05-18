@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB)]()
-- 🔭 I’m currently working at [MathWorks](https://www.mathworks.com) in their Online Products area.
-- 🌱 I’m currently learning Golang and Docker.
+- 🔭 I’m working at [MathWorks](https://www.mathworks.com) in their Online Products area.
+- 💻 I mainly use C++ and JavaScript.
+- 🌱 I’m currently learning networking and concurrency concepts.
 - 👯 I’m looking to collaborate on software projects that can scale and have a high impact.
 - 🤔 I’m looking for help with my homework. My dog ate it!
-- 💬 Ask me about distributed systems and cloud.
+- 💬 Ask me about distributed systems.
 ## 🤝🏻 Connect, Follow, Subscribe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-marug%C3%A1n-593a61105/)
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guille_maru)
@@ -17,7 +18,6 @@
 <img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img style="padding:5px;" align="center" alt="Go" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
 <img style="padding:5px;" align="center" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 <img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 <img style="padding:5px;" align="center" alt="Terraform" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png">
