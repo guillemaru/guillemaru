@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB)]()
 - 🔭 I’m working at [MathWorks](https://www.mathworks.com) in their Online Products area.
 - 💻 I mainly use C++ and JavaScript.
-- 🌱 I’m currently learning networking and concurrency concepts.
+- 🌱 I’m currently learning htmx and Solidity.
 - 👯 I’m looking to collaborate on software projects that can scale and have a high impact.
-- 🤔 I’m looking for help with my homework. My dog ate it!
+- 🤔 Eat, sleep, code, gym, repeat. Do you agree?
 - 💬 Ask me about distributed systems.
 ## 🤝🏻 Connect, Follow, Subscribe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-marug%C3%A1n-593a61105/)
